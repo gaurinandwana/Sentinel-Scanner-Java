@@ -1,0 +1,4 @@
+[
+  {"port": 135, "risk": "RPC: Potential for Remote Code Execution"},
+  {"port": 445, "risk": "SMB: Vulnerable to EternalBlue/WannaCry"}
+]
